@@ -1,0 +1,16 @@
+{
+  "name": "SMC Signal — BTC/USDT",
+  "short_name": "SMC Signal",
+  "description": "Real-time Smart Money Concepts signal tool for BTC/USDT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["finance", "utilities"],
+  "lang": "vi"
+}
